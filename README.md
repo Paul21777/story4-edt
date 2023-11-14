@@ -20,7 +20,7 @@ Pour développer une IA et pour la collaboration il faut utiliser différents ou
 
 ## Mots-clés : 
 
-- **Jupyter notebook** : Environnement de calcul basé sur le web.
+- **Jupyter notebook** :  application web open source, utiliser pour programmer en python, un cahier qui contient du code, texte, graphique et des formules mathématiques. (C’est un interpréteur). 
 
 - **GitHub** : Plateforme collaborative pour stocker, versionner et consulter du code. Il y a aussi un forum, un système de demande de fonctionnalité / de problème rencontré dans un projet, etc.
 
@@ -28,21 +28,21 @@ Pour développer une IA et pour la collaboration il faut utiliser différents ou
 
 - **Interpréteur** : L'interpréteur analyse, traduit et exécute les instructions écrit dans un langage interprété (comme Python).
 
-- **Compilateur** :  Le compilateur est un traducteur d'un langage source (écrit en langage compilé) à un langage objet (ou bas nivea)
+- **Compilateur** :  Le compilateur est un traducteur d'un langage source (écrit en langage compilé) à un langage objet (ou bas niveau)
 
-- **Librairie ou bibliothèque** :  Une librairie est un ou plusieurs fichiers dont l'objectif est d'utiliser du code déjà développé. Certains projets ont besoin de libraires spécifique pour fonctionner, on peut les appeler dans ce contexte des dépendances.
+- **Librairie ou bibliothèque** : Ensemble de ressources (code pré-écris) que le développeur peut intégrer dans son code. 
 
-- **Python** : Python est un langage de programmation de haut niveau, interprété et orienté objet. C'est le langage préféré des développeurs IA et de la Datascience
+- **Python** : langage de programmation interpréter, orienté objet, open source, multi-paradible, multipages fort, première version 1991, fonctionnel, adapté au développement IA et riche en bibliothèque IA.  
 
-- **Anaconda** : Gestionnaire de librairie axé sur l'intelligence artificielle
+- **Anaconda** : c’est un environnement de programmation open source, il sert à simplifier la gestion des packer et le déploiement pour les langages (python ou R) il contient des applications comme jupyter et spider, visuel studio code. 
 
 - **Vs code** :  VSCode est un IDE
 
 - **Terminal** : Programme qui sert d'interface entre l'utilisateur et le système
 
-- **Environnement** :  L'endroit dans lequel on développe. L'environnement
+- **Environnement** :  c’est les ressources logicielles sur lesquelles s’appuie le développeur pour crée une application
 
-- **Matplotlib** :  bibliothèque du langage de programmation Python destinée à tracer et visualiser des données sous forme de graphiques. Elle peut être combinée avec les bibliothèques python de calcul scientifique NumPy et SciPy.
+- **Matplotlib** :  Bibliothèque du langage de programmation Python destinée à tracer et visualiser des données sous forme de graphiques. Elle peut être combinée avec les bibliothèques python de calcul scientifique NumPy et SciPy.
 
 - **Numpy** :  NumPy est une bibliothèque pour langage de programmation Python, destinée à manipuler des matrices ou tableaux multidimensionnels ainsi que des fonctions mathématiques opérant sur ces tableaux.
 
@@ -52,7 +52,7 @@ Pour développer une IA et pour la collaboration il faut utiliser différents ou
 
 - **IDE** :  Environnement de Développement intégré. Inclut généralement un éditeur de texte, des outils de construction automatique, un débogueur et parfois un compilateur ou un interpréteur.
 
-- **Collab** :  Jupyter Notebook de Google
+- **Collab** :  c’est un environnement de programmation google, qui permet d’écrire et d’exécuter des codes python dans le cloud, en ayant accès sans frais au GPU c’est google dans le cloud.  
 
 
 ## Problématique(s) : 
@@ -81,11 +81,11 @@ Pour développer une IA et pour la collaboration il faut utiliser différents ou
 
 - Ahmed : Jupyter est un langage de programmation pour l’IA  | Faux
 
-- Munkherdene : une base de données est obligatoire pour la création d’une IA  | Vrai
+- Munkherdene : une base de données est obligatoire pour la création d’une IA  | Faux
 
     -  Python est le plus utiliser que les autres langages car c’est là ou y a le plus de librairie | Vrai / Faux
 
-- Philippe : Tous les IDE ont la même efficacité quelques soit le langage | Vrai / Faux
+- Philippe : Tous les IDE ont la même efficacité quelques soit le langage | Faux
 
 - Bart : Anaconda c’est un gestionnaire de librairie | Vrai
 
